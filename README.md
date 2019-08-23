@@ -121,4 +121,4 @@
 <ul>
         <li>By email: contact@fitsver.com</li>
           
-        </ul>
+</ul>
